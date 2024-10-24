@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://sucobezo.github.io/sitemap/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/XkL/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/DZk/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/vPd/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/nHw/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/eZh/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/tnq/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/bIO/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/KmL/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/fpe/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/sZl/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/kHI/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/MSh/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/yNo/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/XxC/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/rVw/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/bcA/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/aBj/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/BfC/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/VbR/sitemap_index.sucobezo
+Sitemap: https://sucobezo.github.io/lQZ/sitemap_index.sucobezo
